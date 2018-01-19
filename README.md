@@ -9,11 +9,11 @@
 			- [Footnotes](#footnotes)
 	- [PROJECT 2](#project-2)
 		- [mockup-to-card](#mockup-to-card)
-			- [Description](#description)
-			- [What is Included](#what-is-included)
-			- [Dependencies](#dependencies)
-			- [Quickstart](#quickstart)
-			- [Footnotes](#footnotes)
+			- [Description](#description-2)
+			- [What is Included](#what-is-included-2)
+			- [Dependencies](#dependencies-2)
+			- [Quickstart](#quickstart-2)
+			- [Footnotes](#footnotes-2)
 
 # **Grow With Google Scholarship: Front-End Web Dev**
 ## **PROJECT 1**
@@ -47,25 +47,25 @@ The following will be required to run this program
 ## **PROJECT 2**
 ### mockup-to-card
 
-#### Description
+#### Description 2
 
 Mock-up of an animal card using HTML and CSS
 
-#### What is Included
+#### What is Included 2
 
 * index.html
 *stylesheet.css
 
-#### Dependencies
+#### Dependencies 2
 
 The following will be required to run this program
 
 1. A compatible web browser
 
-#### Quickstart
+#### Quickstart 2
 
 1. open index.html using web browser
 
-#### Footnotes
+#### Footnotes 2
 
 * Tested with Chrome
