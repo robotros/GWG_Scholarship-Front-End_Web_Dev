@@ -54,7 +54,7 @@ Mock-up of an animal card using HTML and CSS
 #### What is Included 2
 
 * index.html
-*stylesheet.css
+* stylesheet.css
 
 #### Dependencies 2
 
