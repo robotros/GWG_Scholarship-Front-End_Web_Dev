@@ -25,7 +25,7 @@ $(document).ready(function() {
         $("tr:last").append("<td></td>");
       }
     }
-  }
+  };
 
   /**
   * @description When size is submitted by the user, call makeGrid()
@@ -53,7 +53,7 @@ $(document).ready(function() {
    /**
   * @description updated color of selected square
   */
-  pixelCanvas.on("click", "td", function() {
+  pixelCanvas.on("click", "td", function(event) {
     dummy.css("color", color);
     ($(this).css("background-color") == dummy.css("color")) ?
       $(this).css("background-color", "") : $(this).css("background-color", color);
