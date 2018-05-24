@@ -8,7 +8,7 @@
 			- [Quickstart](#quickstart)
 			- [Footnotes](#footnotes)
 	- [PROJECT 2](#project-2)
-		- [mockup-to-card](#mockup-to-card)
+		- [mockup-to-card](#animal-trading-card)
 			- [Description](#description-2)
 			- [What is Included](#what-is-included-2)
 			- [Dependencies](#dependencies-2)
@@ -45,7 +45,7 @@ The following will be required to run this program
 * Tested with Chrome
 
 ## **PROJECT 2**
-### mockup-to-card
+### animal-trading-card
 
 #### Description 2
 
