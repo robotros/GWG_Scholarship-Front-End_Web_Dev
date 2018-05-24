@@ -33,6 +33,7 @@ tr {
 
 td {
   width: 2em;
+  height: 2em;
 }
 
 input[type="number"] {
