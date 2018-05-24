@@ -1,5 +1,5 @@
 # 
-- [Grow With Google Scholarship: Front-End Web Dev]
+- [Grow With Google Challenge: Front-End Web Dev]
 	- [PROJECT 1](#project-1)
 		- [mockup-to-article](#mockup-to-article)
 			- [Description](#description)
@@ -14,8 +14,15 @@
 			- [Dependencies](#dependencies-2)
 			- [Quickstart](#quickstart-2)
 			- [Footnotes](#footnotes-2)
+	- [PROJECT 3](#project-3)
+		- [mockup-to-card](#pixel-art)
+			- [Description](#description-2)
+			- [What is Included](#what-is-included-2)
+			- [Dependencies](#dependencies-2)
+			- [Quickstart](#quickstart-2)
+			- [Footnotes](#footnotes-2)
 
-# **Grow With Google Scholarship: Front-End Web Dev**
+# **Grow With Google Challenge: Front-End Web Dev**
 ## **PROJECT 1**
 ### mockup-to-article
 
