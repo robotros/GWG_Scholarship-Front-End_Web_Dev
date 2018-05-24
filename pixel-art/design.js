@@ -12,7 +12,6 @@ $(document).ready(function() {
   let height = heightInput.val();
   let width = widthInput.val();
 
-
  /**
 * @description Creates a table
 * @param {int} height - Height of the table
