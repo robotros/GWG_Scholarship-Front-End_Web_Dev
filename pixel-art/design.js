@@ -55,10 +55,7 @@ $(document).ready(function() {
   */
   pixelCanvas.on("click", "td", function() {
     dummy.css("color", color);
-    if ($(this).css("background-color") == dummy.css("color")) {
-      $(this).css("background-color", "");
-    } else {
-      $(this).css("background-color", color);
-    }
+    ($(this).css("background-color") == dummy.css("color")) ?
+      $(this).css("background-color", "") : $(this).css("background-color", color);
   });
 });
