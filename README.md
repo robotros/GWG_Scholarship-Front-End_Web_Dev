@@ -16,11 +16,11 @@
 			- [Footnotes](#footnotes-2)
 	- [PROJECT 3](#project-3)
 		- [mockup-to-card](#pixel-art)
-			- [Description](#description-2)
-			- [What is Included](#what-is-included-2)
-			- [Dependencies](#dependencies-2)
-			- [Quickstart](#quickstart-2)
-			- [Footnotes](#footnotes-2)
+			- [Description](#description-3)
+			- [What is Included](#what-is-included-3)
+			- [Dependencies](#dependencies-3)
+			- [Quickstart](#quickstart-3)
+			- [Footnotes](#footnotes-3)
 
 # **Grow With Google Challenge: Front-End Web Dev**
 ## **PROJECT 1**
@@ -50,6 +50,7 @@ The following will be required to run this program
 #### Footnotes
 
 * Tested with Chrome
+* A version may be found on [codepen.io](https://codepen.io/robotros/pen/ppLGMP)
 
 ## **PROJECT 2**
 ### animal-trading-card
@@ -76,31 +77,33 @@ The following will be required to run this program
 #### Footnotes 2
 
 * Tested with Chrome
+* A version may be found on [codepen.io](https://codepen.io/robotros/pen/GyPKOo)
 
 ## **PROJECT 3**
 ### pixel-art
 
-#### Description 2
+#### Description 3
 
 Custom size pixel art canvas
 
-#### What is Included 2
+#### What is Included 3
 
 * index.html
 * stylesheet.css
 * design.js
 
 
-#### Dependencies 2
+#### Dependencies 3
 
 The following will be required to run this program
 
 1. A compatible web browser
 
-#### Quickstart 2
+#### Quickstart 3
 
 1. open index.html using web browser
 
-#### Footnotes 2
+#### Footnotes 3
 
 * Tested with Chrome
+* A version may be found on [codepen.io](https://codepen.io/robotros/pen/aqgwgz)
