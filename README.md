@@ -54,7 +54,35 @@ Mock-up of an animal card using HTML and CSS
 #### What is Included 2
 
 * index.html
+* styles.css
+
+#### Dependencies 2
+
+The following will be required to run this program
+
+1. A compatible web browser
+
+#### Quickstart 2
+
+1. open index.html using web browser
+
+#### Footnotes 2
+
+* Tested with Chrome
+
+## **PROJECT 3**
+### pixel-art
+
+#### Description 2
+
+Custom size pixel art canvas
+
+#### What is Included 2
+
+* index.html
 * stylesheet.css
+* design.js
+
 
 #### Dependencies 2
 
